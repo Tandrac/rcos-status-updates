@@ -1,0 +1,11 @@
+What I did this week: Finally got my build working, I had to install some random
+plugins that allowed the build to use log's. I also began digging through the
+files to get a sense of how the project actually builds, and how I can add to that.
+
+What I plan on doing next: My goal for next week is to begin creating a test template
+that would allow me to work out how to actually affect the client. My medium-ish tier
+goal for this is to incorporate a "power mining" tool that would allow users to
+effectively mine without wasting downtime between rocks, and to streamline the
+decision making required.
+
+Blockers: None ATM
